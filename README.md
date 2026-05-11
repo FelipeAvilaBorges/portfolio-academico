@@ -16,7 +16,7 @@ Estudante de Ciência da Computação — UniCEUB
 - GitHub Pages
 
 ## 🌐 GitHub Pages
-Em breve: link da página publicada
+[felipeavilaborges.github.io/portfolio-academico](https://felipeavilaborges.github.io/portfolio-academico)
 
 ## 📬 Contato
 - GitHub: [FelipeAvilaBorges](https://github.com/FelipeAvilaBorges)
