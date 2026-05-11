@@ -20,7 +20,7 @@ Estudante de Ciência da Computação — UniCEUB
 
 ## 📬 Contato
 - GitHub: [FelipeAvilaBorges](https://github.com/FelipeAvilaBorges)
-- LinkedIn: (adicionar link)
+- LinkedIn: [Felipe Ávila](https://www.linkedin.com/in/felipe-avila-936b040a)
 
 ## 📌 Versão
 `v1.0` — Estrutura inicial do repositório
