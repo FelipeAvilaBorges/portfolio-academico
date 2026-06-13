@@ -1,0 +1,30 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependências (caso algum projeto utilize Node.js)
+node_modules/
+package-lock.json
+
+# Variáveis de ambiente e credenciais
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.bak
+
+# Arquivos compactados temporários
+*.zip
+*.rar
